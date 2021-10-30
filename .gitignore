@@ -1,2 +1,5 @@
 cred.txt
 variables.tf
+*.exe
+.terraform.*
+/.terraform
